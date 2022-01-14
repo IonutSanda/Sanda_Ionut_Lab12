@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "V2TjnxXE0rRdPBOL+rGEqAAJ2lFy64Gk92atI/WqHJ9YY6hWkhSUckPEjsZxE9hVxUQjGJ0gj4kHuiRkhokH0g==",
+  "success": true,
+  "projectFilePath": "D:\\Faculta\\An III\\Medii de programare\\Sanda_Ionut__Lab12\\Sanda_Ionut_Lab12\\Sanda_Ionut_Lab12\\Sanda_Ionut_Lab12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z003xjyz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\z003xjyz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\z003xjyz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\z003xjyz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
